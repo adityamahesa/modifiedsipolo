@@ -1,0 +1,36 @@
+/*
+Theme Name: Modified SI Polo v0.1
+Theme URI: http://aamahesa.web.id/
+Description: Theme Pertama yang Saya Buat untuk Bangsa Indonesia Tercinta
+Author: Aditya A. Mahesa
+Author URI: http://aamahesa.com/
+Version: 1.0
+*/
+
+@import "css/bootstrap.min.css";
+@import "css/jquery.bxslider.css";
+@import "css/jquery.sidr.dark.css";
+@import "css/main.css";
+@import "css/normalize.css";
+@import "css/responsive.css";
+
+.index-ft-title:link, .index-ft-title:visited{
+  color : #B63936;
+  text-decoration : none;
+}
+
+.index-ft-title:hover{
+  color : #D9534F;
+}
+
+.index-thumbnail{
+  height : 200px;
+}
+
+.index-ft-header{
+  height : 80px;
+}
+
+.index-right-sidebar li{
+  padding-bottom : 5px;
+}
